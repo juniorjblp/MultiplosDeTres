@@ -1,0 +1,7 @@
+C:\Users\junio\source\repos\MultiplosDeTres\MultiplosDeTres\bin\Debug\MultiplosDeTres.exe.config
+C:\Users\junio\source\repos\MultiplosDeTres\MultiplosDeTres\bin\Debug\MultiplosDeTres.exe
+C:\Users\junio\source\repos\MultiplosDeTres\MultiplosDeTres\bin\Debug\MultiplosDeTres.pdb
+C:\Users\junio\source\repos\MultiplosDeTres\MultiplosDeTres\obj\Debug\MultiplosDeTres.csproj.AssemblyReference.cache
+C:\Users\junio\source\repos\MultiplosDeTres\MultiplosDeTres\obj\Debug\MultiplosDeTres.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\MultiplosDeTres\MultiplosDeTres\obj\Debug\MultiplosDeTres.exe
+C:\Users\junio\source\repos\MultiplosDeTres\MultiplosDeTres\obj\Debug\MultiplosDeTres.pdb
